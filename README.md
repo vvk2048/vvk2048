@@ -5,7 +5,7 @@ I'm a passionate Software Engineer and AI enthusiast with experience building sc
 
 ## 🌟 About Me
 - 🎓 Graduate student at Arizona State University majoring in Computer Science (GPA: 4.0)
--  🎓 Graduated From Indian Institute Of Roorkee majoring in Computer Science
+-  🎓 Graduated From Indian Institute Of Technology Roorkee majoring in Computer Science
 - 💻 Previously at [Harness.io](https://harness.io) as a Software Engineer (Java, Spring Boot, CI/CD)
 - 🤖 Interested in Machine Learning, Distributed Systems, and Edge AI
 - 🌱 Currently exploring Generative AI and Large Language Models (LLMs)
